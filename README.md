@@ -3,16 +3,24 @@
 
 👨‍💻 Pramod Sharma - Coding Enthusiast | Developer🌐  
 🌟 About Me:
+
 Passionate about turning ideas into reality through the power of code, I thrive on challenges and constantly seek innovative solutions to complex problems. With a keen eye for detail and a love for clean, efficient code, I'm dedicated to pushing the boundaries of what's possible in the digital realm.
 
+
 🔧 Skills:
+
 Frontend technologies: HTML, CSS, JavaScript, React
 Backend technologies: Node.js, Django
 Database management: SQL
 Other technologies: Python, Numpy, Pandas, Matplotlib, Seaborn
 I’m currently learning Machine learning, Deep Learning and AI
+
+
+
 📫 Contact:
+
 Feel free to connect with me via 
+
 https://www.linkedin.com/in/pramod-sharma-65a9192a9/
 https://www.facebook.com/pramodsharma.122/
 
